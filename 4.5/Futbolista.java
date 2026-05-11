@@ -1,5 +1,4 @@
-public class Futbolista
-    extends SeleccionFutbol implements IntegranteSeleccionFutbol {
+public class Futbolista extends SeleccionFutbol {
 
   int dorsal;
   String demarcacion;
