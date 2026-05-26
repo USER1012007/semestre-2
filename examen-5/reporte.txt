@@ -1,0 +1,6 @@
+ID: 1
+Técnico: nombre1
+Fecha: 12102000
+Descripción: no le sabe a windows
+Solución: instalar linux
+Costo: $0.0
